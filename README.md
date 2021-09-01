@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programmingpirates&show_icons=true&locale=en" alt="programmingpirates" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programmingpirates&" alt="programmingpirates" /></p>
+<meta name="google-site-verification" content="_tleiMDg2euZiGTEpG320gxfyRmsfGp4q26BQz4vOpg" />
